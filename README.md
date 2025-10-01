@@ -1,3 +1,4 @@
+# Dashy Auth bypass
 Exploit Title: Dashy authentication bypass\
 Date: 02.10.2025\
 Vendor Homepage: Dashy.to\

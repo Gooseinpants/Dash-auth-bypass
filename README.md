@@ -1,7 +1,7 @@
 # Dashy Auth bypass
 Exploit Title: Dashy authentication bypass\
 Date: 02.10.2025\
-Vendor Homepage: Dashy.to\
+Vendor Homepage: [Dashy.to](https://dashy.to/)\
 Version: 3.1.1\
 Tested on: 3.1.1\
 CVE: CVE-2025-57617
